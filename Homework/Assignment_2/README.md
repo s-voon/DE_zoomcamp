@@ -22,5 +22,5 @@ WHERE filename LIKE 'green_tripdata_2020-%';
 ```SQL
 SELECT COUNT(*) 
 FROM public.green_tripdata
-WHERE filename LIKE 'green_tripdata_2021-03';
+WHERE filename LIKE 'green_tripdata_2021-03.csv';
 ```
